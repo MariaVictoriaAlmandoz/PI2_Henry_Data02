@@ -1,6 +1,5 @@
-# PI2_Henri_Data02
 
-# Proyecto Individual #2
+# Proyecto Individual 2
 
  Descripción
 
